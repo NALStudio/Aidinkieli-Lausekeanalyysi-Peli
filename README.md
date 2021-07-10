@@ -6,4 +6,4 @@
 _(Eikä tullakkaan tarkistamaan... Häähää)_ <br/>
 (Sovellus ei ole oikeasti peli, vaan sovellus. Kutsun sitä kuitenkin peliksi eeppisyyden takia.)" <br /><br />
 
-[Avaa NALStudio Game Launcherissa](<https://github.com/NALStudio/Aidinkieli-Lausekeanalyysi-Peli/>)
+[Avaa NALStudio Game Launcherissa](<nalstudiogamelauncher://storepage/>)
