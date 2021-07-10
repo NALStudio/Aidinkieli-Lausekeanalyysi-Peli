@@ -6,4 +6,4 @@
 _(Eikä tullakkaan tarkistamaan... Häähää)_ <br/>
 (Sovellus ei ole oikeasti peli, vaan sovellus. Kutsun sitä kuitenkin peliksi eeppisyyden takia.)"
 
-(Avaa NALStudio Game Launcherissa)[nalstudiogamelauncher://storepage/14544199-8754-4bb1-93ba-aaeb09b51bce]
+[Avaa NALStudio Game Launcherissa](nalstudiogamelauncher://storepage/14544199-8754-4bb1-93ba-aaeb09b51bce)
